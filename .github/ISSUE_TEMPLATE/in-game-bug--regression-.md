@@ -5,37 +5,37 @@ about: This is for bugs which have been introduced in Shenmue 1 or 2 which are n
 
 ---
 
-Please mark an 'x' in the boxes below where your issue is affected. 
+Please mark an 'x' in the boxes below where your issue is affected. **Please preview to make sure the checkboxes are shown correctly!**
 
 **Which game does this affect?**
-- [] Shenmue I
-- [] Shenmue II
+- [ ] Shenmue I
+- [ ] Shenmue II
 
 **Which system does this affect?**
-- [] Playstation 4
-- [] Xbox One
-- [] PC (Steam)
+- [ ] Playstation 4
+- [ ] Xbox One
+- [ ] PC (Steam)
 
 **Which version of the game are you playing?**
-- [] 1.00
-- [] 1.01
+- [ ] 1.00
+- [ ] 1.01
 
 **Provide any additional info you can here (i.e. Console version "CUH-1001A" for Playstation etc)**
 Add additional info here.. 
 
 **What part of the game does this affect?**
-- [] Battle system
-- [] QTE
-- [] Free roam
-- [] Sound
-- [] Savedata
-- [] Cutscene
+- [ ] Battle system
+- [ ] QTE
+- [ ] Free roam
+- [ ] Sound
+- [ ] Savedata
+- [ ] Cutscene
 
 **What happens?**
-A clear and concise description of what happens.
+* A clear and concise description of what happens.
 
 **What should happen?**
-A clear and concise description of what should happen.
+* A clear and concise description of what should happen.
 
 **Reproduction steps**
 1. 
@@ -45,4 +45,4 @@ A clear and concise description of what should happen.
 5.
 
 **Screenshots / Video / Streams**
-If possible, please stream/save the bug as a video to YouTube or another service and pate in here.
+* If possible, please stream/save the bug as a video to YouTube or another service and pate in here.
