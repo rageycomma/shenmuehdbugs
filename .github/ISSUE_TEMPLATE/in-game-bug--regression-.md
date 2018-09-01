@@ -22,6 +22,13 @@ Please mark an 'x' in the boxes below where your issue is affected.
 **Provide any additional info you can here (i.e. Console version "CUH-1001A" for Playstation etc)**
 Add additional info here.. 
 
+**What part of the game does this affect?**
+- [ ] Battle system
+- [ ] QTE
+- [ ] Free roam
+- [ ] Sound
+- [ ] Savedata
+
 **What happens?**
 A clear and concise description of what happens.
 
