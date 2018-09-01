@@ -29,6 +29,7 @@ Add additional info here..
 - [] Free roam
 - [] Sound
 - [] Savedata
+- [] Cutscene
 
 **What happens?**
 A clear and concise description of what happens.
