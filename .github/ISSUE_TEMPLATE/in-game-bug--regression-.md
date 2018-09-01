@@ -17,8 +17,13 @@ Please mark an 'x' in the boxes below where your issue is affected. **Please pre
 - [ ] PC (Steam)
 
 **Which version of the game are you playing?**
+
+For playstation 4:
 - [ ] 1.00
 - [ ] 1.01
+
+For xbox one:
+- [ ] 1.3.0.0
 
 **Provide any additional info you can here (i.e. Console version "CUH-1001A" for Playstation etc)**
 Add additional info here.. 
